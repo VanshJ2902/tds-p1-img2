@@ -1,0 +1,10 @@
+{
+  "prompt": "A highly detailed, realistic scene of a tailor carefully stitching a suit directly onto a single person’s body, making it fit perfectly and tightly, while several other people nearby try to wear identical suits that clearly do not fit them at all, some too loose, some too tight, highlighting extreme over-customization
+
+cinematic lighting, realistic textures, grounded physical environment, professional photography style, emotional but subtle
+
+--no text, no labels, no diagrams, no symbols, no abstract elements",
+  "model": "Gemini Image Generation (Nano Banana)",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored perfectly for one person fits them exactly but fails on others, representing overfitting and lack of generalization."
+}
